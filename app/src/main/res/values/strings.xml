@@ -1,53 +1,53 @@
 <resources>
-    //Heading
+    <!---Heading -->
     <string name="app_name">Udacity Quiz</string>
     <string name="title">Grow with Google Challenge Scholarship \nMastery Quiz</string>
     <string name="intro_question">Were you REALLY paying attention during the course? Take this quiz to find out!</string>
 
-    //Anwer prompts
+    <!---Answer prompts -->
     <string name="answer_true">True</string>
     <string name="answer_false">False</string>
     <string name="answer">Type answer here</string>
 
-    //Question 1
+    <!---Question 1 -->
     <string name="q1">Question 1</string>
     <string name="full_Q1">True or False; Android figures and plushies are always present in the lesson introduction videos.</string>
     <string name="explainAnswer_Q1">True! Androids are always present in the intro videos. Did you spot them?</string>
 
-    //Question 2
+    <!---Question 2 -->
     <string name="q2">Question 2</string>
     <string name="full_Q2">What is the name of the shop that Katherine and Kunal do their video lessons in?</string>
     <string name="Answer_Q2">the coffee lab</string>
     <string name="explainAnswer_Q2">The Coffee Lab</string>
 
-    //Question 3
+    <!---Question 3 -->
     <string name="q3">Question 3</string>
     <string name="full_Q3">True or False; Kunal was invited to Katherine\'s birthday party.</string>
     <string name="explainAnswer_Q3">False; When using a birthday banner as an example of a string, Katherine told Kunal the banner was from a party he may or may not have been invited to. We all know it was the latter.</string>
 
-    //Question 4
+    <!---Question 4 -->
     <string name="q4">Question 4</string>
     <string name="full_Q4">Who leads the practice sets after every lesson?</string>
     <string name="Answer_Q4">lyla</string>
     <string name="explainAnswer_Q4">Lyla the Barista</string>
 
-    //Question 5
+    <!---Question 5 -->
     <string name="q5">Question 5</string>
     <string name="full_Q5">At the end of Lesson 3 there was a dance party. Who was present? CHECK ALL THAT APPLY</string>
     <string name="explainAnswer_Q5">Katherine, Kunal, and Lyla were at the dance party.</string>
 
-    //Question 6
+    <!---Question 6 -->
     <string name="q6">Question 6</string>
     <string name="full_Q6">At said dance party, who laid down the sick dance moves at the end?</string>
     <string name="explainAnswer_Q6">Lyla with the dance moves!</string>
 
-    //Names for Question 5 and 6
+    <!---Names for Question 5 and 6 -->
     <string name="Katherine">Katherine</string>
     <string name="Kunal">Kunal</string>
     <string name="Lyla">Lyla</string>
     <string name="Alice">Alice</string>
 
-    //Scoring
+    <!---Scoring -->
     <string name="submit">What is my score?</string>
 
 </resources>
